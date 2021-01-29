@@ -4,10 +4,7 @@
 #include <time.h>
 #pragma warning(disable:4996)
 
-unsigned variantscount = 0, 
-str_len = 0, 
-letter_len = 0,
-sum_first = 0;
+unsigned variantscount = 0, str_len = 0, letter_len = 0, sum_first = 0;
 char str[100] = { 0 }, letters[10] = { 0 };
 
 void print(int* values, int n)

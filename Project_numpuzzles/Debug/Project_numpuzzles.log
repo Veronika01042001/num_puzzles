@@ -1,15 +1,1 @@
-﻿  Source.c
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(23,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(28,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(71,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(73,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(81,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(117,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(137,27): warning C4047: функция: "unsigned int *" отличается по уровням косвенного обращения от "unsigned int (*)[100]"
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(137,27): warning C4024: find_positions: различные типы для формального и фактического параметров 1
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(138,14): warning C4047: функция: "unsigned int *" отличается по уровням косвенного обращения от "unsigned int (*)[10]"
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(138,14): warning C4024: start: различные типы для формального и фактического параметров 1
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(164,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(169,17): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(86): warning C4715: position: значение возвращается не при всех путях выполнения
-  Project_numpuzzles.vcxproj -> C:\Users\lepei\source\repos\Project_numpuzzles\Debug\Project_numpuzzles.exe
+﻿cl : командная строка error D8016: несовместимые параметры командной строки "/ZI" и "/GL"
