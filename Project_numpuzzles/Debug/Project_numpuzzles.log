@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(25,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(30,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(122,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(107,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(140,19): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int (*)[10]"
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(140,19): warning C4024: find_sum: различные типы для формального и фактического параметров 1
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(148,21): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int (*)[10]"
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(148,21): warning C4024: find_sum: различные типы для формального и фактического параметров 1
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(152,10): warning C4098: variations: функция типа "void", возвращающая значение
+C:\Users\lepei\source\repos\Project_numpuzzles\Project_numpuzzles\Source.c(100): warning C4715: position: значение возвращается не при всех путях выполнения
+  Project_numpuzzles.vcxproj -> C:\Users\lepei\source\repos\Project_numpuzzles\Debug\Project_numpuzzles.exe
